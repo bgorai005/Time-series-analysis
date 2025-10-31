@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction
+#  Stock Price Prediction
 
 ## Project Overview
 
@@ -6,31 +6,31 @@ This project aims to forecast **future closing prices** of stocks by leveraging 
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
-1. [📖 Introduction](#-introduction)
-2. [🔄 Data Preprocessing](#-data-preprocessing)
-3. [📊 Models](#-models)
+1. [ Introduction](#-introduction)
+2. [ Data Preprocessing](#-data-preprocessing)
+3. [ Models](#-models)
    - [AR (AutoRegressive) Model](#ar-autoregressive-model)
    - [MA (Moving Average) Model](#ma-moving-average-model)
    - [ARMA (AutoRegressive Moving Average) Model](#arma-autoregressive-moving-average-model)
    - [ARIMA (AutoRegressive Integrated Moving Average) Model](#arima-autoregressive-integrated-moving-average-model)
    - [SARIMA (Seasonal ARIMA) Model](#sarima-seasonal-arima-model)
    - [LSTM (Long Short-Term Memory) Model](#lstm-long-short-term-memory-model)
-4. [⚙️ Usage](#%EF%B8%8F-usage)
-5. [📦 Dependencies](#-dependencies)
-6. [💬 Acknowledgements](#-acknowledgements)
-7. [📫 Contact](#-contact)
+4. [ Usage](#%EF%B8%8F-usage)
+5. [ Dependencies](#-dependencies)
+6. [ Acknowledgements](#-acknowledgements)
+7. [ Contact](#-contact)
 
 ---
 
-## 📖 Introduction
+##  Introduction
 
 The goal of this project is to predict stock prices using time series forecasting models like **AR, MA, ARMA, ARIMA, SARIMA, and LSTM**. By comparing each model's performance, we aim to identify the most effective approach for accurately forecasting future prices.
 
 ---
 
-## 🔄 Data Preprocessing
+##  Data Preprocessing
 
 1. **Data Collection**: Obtain historical stock price data, including fields like Date, Open, High, Low, Close, and Volume.
 2. **Data Cleaning**:
@@ -73,7 +73,7 @@ A powerful deep learning model, **LSTM** excels at capturing long-term dependenc
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 1. **Install Dependencies**: Start by installing all necessary libraries.
    
@@ -89,7 +89,7 @@ A powerful deep learning model, **LSTM** excels at capturing long-term dependenc
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 Make sure you have these libraries installed:
 
@@ -106,13 +106,13 @@ yfinance (for obtaining stock data)
 
 ---
 
-## 💬 Acknowledgements
+##  Acknowledgements
 
 Special thanks to **[yfinance](https://pypi.org/project/yfinance/)** for providing the historical stock data used in this project. 📅
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Feel free to reach out for questions or support:
 
